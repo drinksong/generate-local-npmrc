@@ -6,11 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drinksong/generate-local-npmrc.git"
+  },
   "bin": {
     "npmrc": "./bin/npmrc.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "IMT",
   "dependencies": {
     "commander": "^2.15.1"
   }
