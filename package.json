@@ -1,5 +1,5 @@
 {
-  "name": "generate-local-npmrc",
+  "name": "@drinksong/npmrc-local",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
